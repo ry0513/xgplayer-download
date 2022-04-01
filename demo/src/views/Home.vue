@@ -19,7 +19,7 @@ export default {
       downloadList: [
         {
           title: "直接下载",
-          link: "/video.mp4",
+          link: "video.mp4",
         },
         {
           title: "下载页面（新页面）",

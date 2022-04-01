@@ -23,12 +23,12 @@ export default {
         },
         {
           title: "下载页面（新页面）",
-          link: "#/about",
+          link: "#/download",
           download: false,
         },
         {
           title: "下载页面（本页面）",
-          link: "#/about",
+          link: "#/download",
           download: false,
           target: "_self",
         },

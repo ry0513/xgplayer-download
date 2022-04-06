@@ -17,7 +17,7 @@ const t_download = function () {
     return false;
   }
 
-  let container = createDom("xg-download", " ", {}, "xgplayer-download");
+  let container = createDom("xg-download", " ", {}, "xgplayer-t_download");
 
   if (sniffer.device === "mobile") {
     player.config.playbackRateActive = "click";
@@ -31,7 +31,7 @@ const t_download = function () {
     `</ul><p><xg-icon class="but xgplayer-icon">${DownloadIcon}</xg-icon></p>`
   );
 
-  let downloadDom = player.root.querySelector(".xgplayer-download");
+  let downloadDom = player.root.querySelector(".xgplayer-t_download");
   if (downloadDom) {
     downloadDom.innerHTML = tmp.join("");
     let cur = downloadDom.querySelector(".but");

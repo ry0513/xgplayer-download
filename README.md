@@ -24,7 +24,7 @@
 
 - 体验地址
 
-  体验地址[跳转](https://ry0513.github.io/xgplayer-download)
+  体验地址[跳转](https://ry0513.github.io/RuoYu-Demo/xgplayer-download/)
 
 - 运行 demo
 
